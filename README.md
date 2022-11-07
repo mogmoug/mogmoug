@@ -1,6 +1,4 @@
-```python
-print("hello world")
-```
+（*゜ー゜*）
 
 <!---
 mogmoug/mogmoug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
