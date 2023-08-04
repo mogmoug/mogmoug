@@ -3,12 +3,8 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/mogmoug)
 ![GitHub followers](https://img.shields.io/github/followers/mogmoug)
-![GitHub watchers](https://img.shields.io/github/watchers/mogmoug/mogmoug)
 
-![Visitor Count](https://profile-counter.glitch.me/mogmoug/count.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mogmoug)](https://github.com/mogmoug/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mogmoug&layout=compact)](https://github.com/mogmoug/github-readme-stats)
-![Mogmoug's GitHub stats](https://github-readme-stats.vercel.app/api?username=mogmoug&show_icons=true&theme=tokyonight)
 
 
 正在学习编程技术。💻
@@ -70,7 +66,7 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+-----
+![Visitor Count](https://profile-counter.glitch.me/mogmoug/count.svg)
 
 🇨🇳🇬🇧🇫🇷🇷🇺🇺🇸
