@@ -8,6 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mogmoug)](https://github.com/mogmoug/github-readme-stats)
 
+目前主线是进击初中学业水平考试(The Academic Test for the Junior High School Students)。
 
 正在学习编程技术。💻
 
